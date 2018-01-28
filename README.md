@@ -10,11 +10,15 @@ Download the [netty i/o](https://netty.io/) library and add it to your project
 ## Usage
 
 **Connection variables are located in org.etg.nirc.Vars**
+
 **Base plugin file in org.etg.nirc.plugin.Plugin**
 
 Channel Operators (@) are stored in the ArrayList Vars.opList
+
 Channel Half-Operators (%) are stored in the ArrayList Vars.halfOpList
+
 List of all users in channel are stored in the ArrayList Vars.inIRC
+
 IRC text styling codes are in the Vars class.
 
 ## Functions
