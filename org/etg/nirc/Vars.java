@@ -9,8 +9,8 @@ import java.util.ArrayList;
 
 public class Vars {
 	//General Variables
-        public static String server = "chat.freenode.net";
-        public static int port = 6667;
+    public static String server = "chat.freenode.net";
+    public static int port = 6667;
 	public static String nick = "IrcBot";
 	public static String chan = "#channelname";
 	public static String pass = "";
